@@ -1,0 +1,22 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe.config
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\obj\x86\Debug\NorthwindHost.ProjectInstaller.resources
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\obj\x86\Debug\NorthwindHost.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\obj\x86\Debug\NorthwindHost.pdb
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe.config
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.pdb
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindServices.dll
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindServices.pdb
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\obj\x86\Debug\NorthwindHost.ProjectInstaller.resources
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\obj\x86\Debug\NorthwindHost.exe
+C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\obj\x86\Debug\NorthwindHost.pdb

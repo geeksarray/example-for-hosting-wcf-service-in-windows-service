@@ -1,0 +1,113 @@
+﻿Installing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing service Northwind Servces...
+Service Northwind Servces has been successfully installed.
+Creating EventLog source Northwind Servces in log Application...
+Committing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Uninstalling assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Removing EventLog source Northwind Servces.
+Service Northwind Servces is being removed from the system...
+Service Northwind Servces was successfully removed from the system.
+Installing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing service Northwind Servces...
+Service Northwind Servces has been successfully installed.
+Creating EventLog source Northwind Servces in log Application...
+Committing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Uninstalling assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Removing EventLog source Northwind Servces.
+Service Northwind Servces is being removed from the system...
+Service Northwind Servces was successfully removed from the system.
+Attempt to stop service Northwind Servces.
+Installing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing service Northwind Servces...
+Service Northwind Servces has been successfully installed.
+Creating EventLog source Northwind Servces in log Application...
+Committing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Uninstalling assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Removing EventLog source Northwind Servces.
+Service Northwind Servces is being removed from the system...
+Service Northwind Servces was successfully removed from the system.
+Attempt to stop service Northwind Servces.
+Installing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing service Northwind Servces...
+Service Northwind Servces has been successfully installed.
+Creating EventLog source Northwind Servces in log Application...
+Committing assembly 'C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Laxmikant\D\Applications\dotnetbloggers - code\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing assembly 'C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing service Northwind Servces...
+Service Northwind Servces has been successfully installed.
+Creating EventLog source Northwind Servces in log Application...
+Committing assembly 'C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Uninstalling assembly 'C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Removing EventLog source Northwind Servces.
+Service Northwind Servces is being removed from the system...
+Service Northwind Servces was successfully removed from the system.
+Attempt to stop service Northwind Servces.
+Installing assembly 'C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe
+Installing service Northwind Servces...
+Service Northwind Servces has been successfully installed.
+Creating EventLog source Northwind Servces in log Application...
+Committing assembly 'C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.InstallLog
+   assemblypath = C:\Users\NQE8503\Laxmikant\Applications\Northwind Services\NorthwindHost\bin\Debug\NorthwindHost.exe

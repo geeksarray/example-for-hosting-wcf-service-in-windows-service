@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Products>
+    <productID>1</productID>
+    <productname>Chai</productname>
+    <categoryID>1</categoryID>
+    <UnitsInStock>39</UnitsInStock>
+    <CategoryName>Beverages</CategoryName>
+  </Products>
+  <Products>
+    <productID>2</productID>
+    <productname>Chang</productname>
+    <categoryID>1</categoryID>
+    <UnitsInStock>17</UnitsInStock>
+    <CategoryName>Beverages</CategoryName>
+  </Products>
+  <Products>
+    <productID>3</productID>
+    <productname>Aniseed Syrup</productname>
+    <categoryID>2</categoryID>
+    <UnitsInStock>13</UnitsInStock>
+    <CategoryName>Condiments</CategoryName>
+  </Products>
+  <Products>
+    <productID>4</productID>
+    <productname>Chef Anton's Cajun Seasoning</productname>
+    <categoryID>2</categoryID>
+    <UnitsInStock>53</UnitsInStock>
+    <CategoryName>Condiments</CategoryName>
+  </Products>
+  <Products>
+    <productID>5</productID>
+    <productname>Chef Anton's Gumbo Mix</productname>
+    <categoryID>2</categoryID>
+    <UnitsInStock>0</UnitsInStock>
+    <CategoryName>Condiments</CategoryName>
+  </Products>
+  <Products>
+    <productID>6</productID>
+    <productname>Grandma's Boysenberry Spread</productname>
+    <categoryID>2</categoryID>
+    <UnitsInStock>120</UnitsInStock>
+    <CategoryName>Condiments</CategoryName>
+  </Products>
+  <Products>
+    <productID>7</productID>
+    <productname>Uncle Bob's Organic Dried Pears</productname>
+    <categoryID>7</categoryID>
+    <UnitsInStock>15</UnitsInStock>
+    <CategoryName>Produce</CategoryName>
+  </Products>
+</DocumentElement>
