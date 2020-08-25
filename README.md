@@ -20,6 +20,6 @@ Hosting WCF service to Windows service gives you the following benefits.
 1. **[Windows Service hosting WCF Service](https://github.com/geeksarray/example-for-hosting-wcf-service-in-windows-service/tree/master/Northwind%20Services/NorthwindHost)** -
    Windows service hosting Product WCF Service.
    
-!(Install Windows Service)[https://geeksarray.com/images/blog/installutil.png]
+![Install Windows Service](https://geeksarray.com/images/blog/installutil.png)
 
 For more detailed description visit - https://geeksarray.com/blog/example-for-hosting-wcf-service-in-windows-service
